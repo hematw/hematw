@@ -1,4 +1,4 @@
-![Image of me]([[https://giphy.com/embed/bJ4TVNYNUympPgcpem](https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem)](https://media1.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.mp4?cid=ecf05e47i6q2so6l1licaljn67jg6djvtp28n3klsx6jbq9f&amp;ep=v1_gifs_search&amp;rid=giphy.mp4&amp;ct=g))
+![Image of me](https://github.com/hematw/hematw/blob/master/me.gif?raw=true)
 <div align="center">
 
 
