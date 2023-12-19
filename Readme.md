@@ -1,4 +1,4 @@
-![Image of me](https://github.com/hematw/hematw/blob/master/me.gif?raw=true)
+![Image of me](https://github.com/hematw/hematw/blob/main/me.gif?raw=true)
 <div align="center">
 
 
