@@ -1,4 +1,4 @@
-![Image of me](https://giphy.com/embed/bJ4TVNYNUympPgcpem)
+![Image of me]([https://giphy.com/embed/bJ4TVNYNUympPgcpem](https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem))
 <div align="center">
 
 
