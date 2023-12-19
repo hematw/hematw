@@ -1,4 +1,3 @@
-![Image of me](https://github.com/hematw/hematw/blob/main/me.gif?raw=true)
 <div align="center">
 
 
