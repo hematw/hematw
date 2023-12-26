@@ -5,8 +5,6 @@
   <h3>A Junior full Stack developer.<h3>
   <h5>Looking for my new role.<h5>
    
-<p>I'm a highly motivated software developer with a passion for building impactful applications. And now enrolled in <a href="https://www.microverse.org/">Microverse</a>, a top-tier remote software development school that emphasizes real-world projects and pair programming.<p>
-    
 </div>
 
 
