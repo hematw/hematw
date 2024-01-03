@@ -9,7 +9,7 @@
 
 
 💯 Dream, Believe & Achieve<br>
-⚙️ My stack: HTML/CSS | JavaScript | MongoDB | Ruby/Rails | SQL | <br>
+⚙️ My stack: HTML/CSS | JavaScript | MongoDB | PHP | SQL | <br>
 🟢 I am currently working on a project using MERN stack.<br>
 
 
