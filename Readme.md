@@ -1,17 +1,11 @@
 <div align="center">
 
 
-  <h1>Hi there 👋, I’m Hemat</h1>
+  <h1>Hi there 👋, <span style="color: red">I’m Hemat</span></h1>
   <h3>A Junior full Stack developer.<h3>
-  <h5>Looking for my new role.<h5>
+
    
 </div>
-
-
-💯 Dream, Believe & Achieve<br>
-⚙️ My stack: HTML/CSS | JavaScript | MongoDB | PHP | SQL | <br>
-🟢 I am currently working on a project using MERN stack.<br>
-
 
 
 ## 🌐 Socials:
