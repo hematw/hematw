@@ -2,7 +2,7 @@
 
 
   <h1>Hi there 👋, <span style="color: red">I’m Hemat</span></h1>
-  <h3>JavaScript full Stack developer.<h3>
+  <h3>JavaScript Full-Stack Developer.<h3>
 
    
 </div>
