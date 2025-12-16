@@ -6,7 +6,6 @@
 
 Turning ideas into scalable, performant, and beautiful web applications.
 
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="40" alt="React"/>  
 Passionate about clean code, modern UI/UX, and building products that make a difference.
 
 </div>
@@ -68,3 +67,4 @@ Passionate about clean code, modern UI/UX, and building products that make a dif
 Feel free to reach out — let's build something great together!
 
 </div>
+
