@@ -20,11 +20,11 @@ Passionate about clean code, modern UI/UX, and building products that make a dif
 ## Connect With Me
 
 <div align="center">
-<a href="https://yagankar.com/u/hematw/passport"><img src="https://yagankar.com/u/hematw/badge.svg" alt="Verified on Yagankar" height="28"></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hematw)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_hematw)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com) <!-- Add your site if you have one -->
 
+<a href="https://yagankar.com/u/hematw/passport"><img src="https://yagankar.com/u/hematw/badge.svg" alt="Verified on Yagankar" height="28"></a>
 </div>
 
 ## Tech Stack
