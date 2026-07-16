@@ -20,10 +20,9 @@ Passionate about clean code, modern UI/UX, and building products that make a dif
 ## Connect With Me
 
 <div align="center">
-
+[<img src="https://yagankar.com/u/hematw/badge.svg" alt="Verified on YaganKar" height="28">](https://yagankar.com/u/hematw/passport)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hematw)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_hematw)
-[![YaganKar](https://img.shields.io/badge/YaganKar-Verified-8B5CF6?style=for-the-badge)](https://yagankar.com/u/hematw/passport)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
 </div>
