@@ -4,55 +4,57 @@
 
 **Full-Stack JavaScript Developer | Next.js & React Specialist**
 
-Turning ideas into scalable, performant, and beautiful web applications.
+Turning ideas into scalable, performant, and modern web applications.
 
-Passionate about clean code, modern UI/UX, and building products that make a difference.
+*Passionate about clean code, modern UI/UX, and building impactful digital products.*
 
-</div>
+---
 
-## About Me
-
-- Full-Stack Developer specializing in **React**, **Next.js**, **TypeScript**, and **Node.js**  
-- Experienced in building full-stack applications with **Next.js App Router**, **tRPC**, **Prisma**, and **PostgreSQL/MySQL/MongoDB**  
-- Strong focus on performance, accessibility, and developer experience  
-- Always learning — currently diving deeper into **AI-powered dev tools** and **edge computing**
-
-## Connect With Me
-
-<div align="center">
+<!-- Connect Badges -->
 [<img src="https://yagankar.com/u/hematw/badge.svg" alt="Verified on YaganKar" height="28">](https://yagankar.com/u/hematw/passport)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hematw)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_hematw)
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_hematw)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
-## Tech Stack
+## 👤 About Me
+
+- 🚀 Full-Stack Developer specializing in **React**, **Next.js**, **TypeScript**, and **Node.js**
+- ⚡ Experienced in building full-stack applications with **Next.js App Router**, **tRPC**, **Prisma**, and **PostgreSQL / MySQL / MongoDB**
+- 🎯 Strong focus on performance optimization, web accessibility, and developer experience
+- 🧠 Always learning — currently diving deeper into **AI-powered dev tools** and **edge computing**
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,prisma,mongodb,mysql,postgres,git,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,prisma,mongodb,mysql,postgres,git,postman,vscode" alt="Tech Stack Icons" />
 
 </div>
 
-<br>
+<br />
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Zod, React Query / TanStack Query  
-**Backend:** Node.js, Express, tRPC, Prisma, Drizzle ORM  
-**Tools & Others:** Git, Docker, Vercel, Supabase, Firebase, WebSockets, REST & GraphQL
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Zod, TanStack Query
+- **Backend:** Node.js, Express, tRPC, Prisma, Drizzle ORM
+- **Tools & Infrastructure:** Git, Docker, Vercel, Supabase, Firebase, WebSockets, REST & GraphQL
 
-## GitHub Stats
+---
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hematw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hematw&theme=tokyonight&hide_border=true"/>
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hematw&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
-
-</div>
+## 📊 GitHub Stats
 
 <div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hematw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Hematullah's GitHub Stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=hematw&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hematw&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+
+<br />
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=hematw&label=Profile%20Views&color=6&icon=5&pretty=true)
 
@@ -62,9 +64,8 @@ Passionate about clean code, modern UI/UX, and building products that make a dif
 
 <div align="center">
 
-**Open to full-time opportunities • Freelance projects • Collaborations**
+### 💼 Open to full-time opportunities, freelance projects, and collaborations!
 
-Feel free to reach out — let's build something great together!
+*Feel free to reach out — let's build something great together!*
 
 </div>
-
